@@ -1,0 +1,7 @@
+setuptools>=41.0.0
+numpy
+keras
+tensorflow
+pillow
+image
+streamlit
